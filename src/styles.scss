@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+// @import "~@swimlane/ngx-datatable/index.css";
+@import "~@swimlane/ngx-datatable/themes/material.scss";
+@import "~@swimlane/ngx-datatable/assets/icons.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Open+Sans:wght@600&display=swap");
+// @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+// ngx-datatable module requires custom styles to be written in the main style file
+.datatable-header-cell-label {
+  font-size: 12pt;
+  font-family: "Open Sans", sans-serif;
+}
+.datatable-body-cell-label span {
+  font-size: 12pt;
+}
+
+.datatable-row-center {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.datatable-body-cell-label {
+  font-family: "Open Sans", sans-serif;
+}
+
+.empty-row {
+  font-family: "Open Sans", sans-serif;
+  color: #757575;
+}
