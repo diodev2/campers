@@ -10,8 +10,6 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 </p>
     <br />
-    <a href="https://github.com/diodev2/campers"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/diodev2/campers" target="_blank">View Demo</a>
 
