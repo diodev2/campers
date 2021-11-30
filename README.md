@@ -11,8 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 </p>
     <br />
     <br />
-    <a href="https://github.com/diodev2/campers" target="_blank">View Demo</a>
-
+    <a href="https://diodev2.github.io/campers/" target="_blank">View Demo</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -111,7 +110,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Claudio Villani- claudio.villani00@gmail.com
 
 Project Link: [https://github.com/diodev2/campers](https://github.com/diodev2/campers)
-
+Deployed link:[https://diodev2.github.io/campers/](https://diodev2.github.io/campers/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
